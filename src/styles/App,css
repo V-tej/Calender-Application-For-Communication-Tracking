@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.notification-icon {
+  background-color: red;
+  color: white;
+  padding: 10px;
+}
+
+.company-list div {
+  margin-bottom: 10px;
+}
+
+
