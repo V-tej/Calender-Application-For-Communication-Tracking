@@ -1,7 +1,9 @@
 Calendar Application for Communication Tracking
+
 This project is designed to help organizations maintain strong professional relationships by efficiently tracking communication with companies. Built with React, the application provides a centralized platform to log past interactions, schedule future communications, and ensure follow-ups are timely and consistent.
 
 Key Features
+
 Admin Module
 Company Management:
 Add, edit, and delete companies with details such as name, location, LinkedIn profile, emails, phone numbers, comments, and communication periodicity.
